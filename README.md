@@ -1,2 +1,2 @@
 # Dunumba-Repository
-Repositorio de trabajos de prueba de git
+Repositorio de trabajos de prueba en general
